@@ -4,7 +4,7 @@ CLINT Demo Repository for documentation of a shared data pool.
 
 The shared data pool is available at DKRZ:
 
-* Root folder: /work/bk1013/Data_Repository
+* Root folder: /work/bk1318/Data_Repository
 * 60 TB
 * additional 30 GB for each user
 
