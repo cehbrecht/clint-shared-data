@@ -2,6 +2,10 @@
 
 CLINT Demo Repository for documentation of a shared data pool.
 
+This repo should go to the clint project:
+
+https://github.com/climateintelligence 
+
 The shared data pool is available at DKRZ:
 
 * Root folder: /work/bk1318/Data_Repository
@@ -21,7 +25,7 @@ This repo contains the following:
 
 ## Find data using Freva
 
-It is possible to ingest datasets into the Freva system at DKRZ. They can then be searched via web-ui:
+It is possible to ingest datasets into the Freva system at DKRZ. They can then be searched via a web-ui:
 
 https://www.xces.dkrz.de/ 
 
