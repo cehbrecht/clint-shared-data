@@ -14,7 +14,12 @@ This repo contains the following:
 * example notebooks on how to use the data
 * scripts to ingest datasets into the freva browser
 
-## Find datasets using Freva
+## Documentation at DKRZ
+
+* https://luv.dkrz.de/
+* https://docs.dkrz.de/
+
+## Find data using Freva
 
 It is possible to ingest datasets into the Freva system at DKRZ. They can then be searched via web-ui:
 
